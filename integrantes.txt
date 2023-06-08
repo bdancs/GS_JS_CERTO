@@ -3,6 +3,10 @@ Bianca Carvalho Dancs Firsoff           RM551645
 Gabriel Machado Carrara Pimentel        RM99880
 Hellen Ramos Gonçalves Assis            RM98284
 
+LINK DO REPOSITÓRIO: https://github.com/bdancs/GS_JS_CERTO.git
+
 Professor, por favor leve em consideração que eu, Bianca, fiz o carrossel utilizando do único vídeo que consegui entender e que no outro arquivo estava funcionando, mas esse não por alguma razão???? Eu vou deixar aqui o link do repositório que tem o carrossel, apenas o carrossel e nenhum outro js, que está funcionando mais ou menos. >>> https://github.com/bdancs/GS1_Front.git
 
 E o nosso dark mode, por mais que esteja igual ao exercício que a gente fez antes, não funciona e a gente não consegue achar o erro, nem mesmo o Chat GPT.
+
+A gente também teve problema em criar uma branch no nome da Ana e da Hellen, por alguma razão.
