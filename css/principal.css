@@ -46,6 +46,26 @@
     font-style: italic;
 }
 
+.carrossel{
+    box-shadow: 2px 2px 4px black;
+    display: inline-flex;
+    overflow: hidden;
+    height: 250px;
+    width: 400px;
+}
+
+.container{
+    display: flex;
+    transition: transform 0.5s ease-in-out;
+    transform: translateX(0);
+}
+
+#img{
+    object-fit: cover;
+    height: 250px;
+    width: 400px;
+}
+
 #intro{
     display: flex;
     flex-direction: column;
