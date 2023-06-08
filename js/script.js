@@ -118,8 +118,7 @@ cadastroForm.addEventListener("submit", function (event) {
   validarFormulario();
 });
 
-
-
+//EXIBINDO DATA E HORA
 
 function exibirDataHora() {
   var p = document.getElementById("data-hora");
