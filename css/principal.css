@@ -50,8 +50,8 @@
     box-shadow: 2px 2px 4px black;
     display: inline-flex;
     overflow: hidden;
-    height: 500px;
-    width: 500px;
+    height: 250px;
+    width: 400px;
 }
 
 .container{
@@ -62,8 +62,8 @@
 
 #img{
     object-fit: cover;
-    height: 500px;
-    width: 500px;
+    height: 250px;
+    width: 400px;
 }
 
 #intro{
