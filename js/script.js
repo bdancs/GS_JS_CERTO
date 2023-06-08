@@ -132,7 +132,7 @@ var darkModeToggle = document.querySelector(".dark-mode-toggle");
 var body = document.body;
 
 darkModeToggle.addEventListener("click", function() {
-  body.classList.toggle("dark-mode");
+  body.classList.toggle(".dark-mode");
 });
 
 
