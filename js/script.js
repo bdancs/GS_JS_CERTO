@@ -144,7 +144,7 @@ const img = document.querySelectorAll("#img img");
 
 let idx = 0;
 
-function carrossel(){
+function carrossel() {
     idx++;
 
     if(idx > img.length - 1){
